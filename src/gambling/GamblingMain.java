@@ -12,6 +12,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
+
 public class GamblingMain extends Application {
 	Label la1 = new Label("0"), la2 = new Label("0"), la3 = new Label("0");
 	Label result = new Label("시작합니다.");
